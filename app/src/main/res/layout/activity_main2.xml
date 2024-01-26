@@ -38,7 +38,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="20dp"
                         android:text="Welcome to BBT Coffee!"
-                        android:textColor="#205618"
+                        android:textColor="#CF8C5229"
                         android:textStyle="bold"
                         android:textSize="18dp"
                         app:layout_constraintStart_toStartOf="parent"
@@ -84,7 +84,7 @@
                     android:id="@+id/edTimKiem"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="#26205618"
+                    android:background="#2B8C5229"
                     android:hint="Find your drink"/>
             </com.google.android.material.textfield.TextInputLayout>
 
