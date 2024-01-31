@@ -15,7 +15,7 @@
             android:textColor="#250202"
             android:textSize="20dp"
             android:textStyle="bold"
-            android:text="BBT COFFEE"/>
+            android:text="MANAGER COFFEE"/>
         <ImageView
             android:id="@+id/imgCart"
             android:layout_width="wrap_content"

@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'thanhncph30708.fpoly.du_an_agile_nhom_2_managercoffee'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "thanhncph30708.fpoly.du_an_agile_nhom_2_managercoffee"
         minSdk 21
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
@@ -50,6 +50,6 @@ dependencies {
 
 //
 //    //thư viện chart
-//    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
-//    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+    implementation 'com.android.support:multidex:1.0.3'
 }

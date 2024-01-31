@@ -60,7 +60,7 @@
                 android:layout_width="370dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="23dp"
-                android:backgroundTint="#D9205618"
+                android:backgroundTint="#CF8C5229"
                 android:text="$ Doanh thu"
                 android:textColor="@color/white"
                 android:layout_gravity="center"/>
