@@ -188,7 +188,7 @@ public class HomeFragment extends Fragment {
     private List<sideshow> getListSideShow() {
         List<sideshow> list = new ArrayList<>();
         list.add(new sideshow(R.drawable.bannerduan));
-        list.add(new sideshow(R.drawable.bannerduan));
+        list.add(new sideshow(R.drawable.banner2));
         list.add(new sideshow(R.drawable.bannerduan));
         return list;
     }

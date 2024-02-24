@@ -111,7 +111,7 @@
             android:text="Lưu"
             android:layout_marginHorizontal="20dp"
             android:layout_weight="1"
-            android:backgroundTint="#D9205618"
+            android:backgroundTint="#CF8C5229"
             android:textColor="@color/white"/>
         <Button
             android:id="@+id/btnHuyNhanVien"
@@ -120,7 +120,7 @@
             android:text="Hủy"
             android:layout_marginHorizontal="20dp"
             android:layout_weight="1"
-            android:backgroundTint="#D9205618"
+            android:backgroundTint="#CF8C5229"
             android:textColor="@color/white"/>
     </LinearLayout>
 </LinearLayout>
